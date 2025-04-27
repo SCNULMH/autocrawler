@@ -1,4 +1,4 @@
-# autocrawler
+# autocrawler 패턴기반 다중 블록 크롤링
 
 
 # 구글 크롬 드라이버
